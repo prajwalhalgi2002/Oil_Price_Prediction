@@ -2,6 +2,7 @@
 
 ## Overview
 This project predicts crude oil closing prices using Machine Learning techniques and historical market data.
+This project was done during my Data science Internship 
 
 ## Features
 - Data preprocessing
